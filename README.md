@@ -24,3 +24,5 @@ The importance of SIEM lies in its ability to address key aspects of a comprehen
   3. **Incident Management:** SIEM solutions enhance incident handling efficiency through real-time monitoring, customized alerts, and established protocols. This accelerates incident containment, minimizing potential damage from security breaches.
 
 The evolution of SIEM involves combining Security Information Management (SIM) and Security Event Management (SEM). SIM focuses on storing, analyzing, manipulating, and reporting on logs and security records, while SEM concentrates on real-time monitoring and correlating events. By integrating these functions, SIEM provides a comprehensive view of security data, aiding in monitoring abnormal behavior and potential cyberattacks across networks.
+
+BACK TO [PROJECTS](https://github.com/Char-Hunt/Learning-Info-Sec/blob/main/README.md#projects)
